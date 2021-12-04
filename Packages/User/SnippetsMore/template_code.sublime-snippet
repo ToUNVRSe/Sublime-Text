@@ -1,6 +1,7 @@
 <snippet>
 	<description>template_code</description>
 	<content><![CDATA[#include<cstdio>
+#include<vector>
 #include<cstring>
 #include<algorithm>
 #define uni unsigned
@@ -12,7 +13,7 @@ const int N=${1:1000010},FSIZE=${2:1<<26};
 char BuF[FSIZE],*InF=BuF;
 ${3:template<typename T>void read(T &x){
 	bool f=1;
-	for(;47>*InF||*InF>58;f^=*InF++=='-');
+	for(;48>*InF||*InF>57;f^=*InF++=='-');
 	for(x=0;47<*InF&&*InF<58;x=x*10+(*InF++^48));
 	x=f?x:-x;
 \}}

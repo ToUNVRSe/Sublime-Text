@@ -14,7 +14,6 @@
 		"AppleScript",
 		"ASP",
 		"Batch File",
-		"BracketHighlighter",
 		"C#",
 		"Clojure",
 		"Color Scheme - Default",
@@ -46,7 +45,7 @@
 		"SQL",
 		"TCL",
 		"Textile",
-		"Vintage"
+		"Vintage",
 	],
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,

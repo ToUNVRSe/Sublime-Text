@@ -1,0 +1,1 @@
+{"platforms": ["windows"], "dependencies": [], "description": "Make the windows transparency", "url": "https://github.com/vhanla/SublimeTextTrans", "version": "1.4.0", "sublime_text": "*"}

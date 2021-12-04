@@ -1,0 +1,14 @@
+<snippet>
+	<description>read_int</description>
+	<content><![CDATA[template<typename T>void read(T &x){
+	bool f=1;
+	for(;47>*InF||*InF>58;f^=*InF++=='-');
+	for(x=0;47<*InF&&*InF<58;x=x*10+(*InF++^48));${1:
+	if(*InF++=='.'){
+        for(long double t=0.1;47<*InF&&*InF<58;x+=t*(*InF++-48),t/=10);
+    \}}
+    x=f?x:-x;
+}$0]]></content>
+	<tabTrigger>read</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>

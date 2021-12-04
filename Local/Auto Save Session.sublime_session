@@ -1,0 +1,3648 @@
+{
+	"folder_history":
+	[
+		"/D/HQX/Writes/_ToUNVRSe"
+	],
+	"last_version": 4121,
+	"last_window_id": 42,
+	"log_indexing": false,
+	"next_update_check": 1638662041,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 677.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"read",
+						"read"
+					],
+					[
+						"B",
+						"Block"
+					],
+					[
+						"po",
+						"pop_front()"
+					],
+					[
+						"rad",
+						"read"
+					],
+					[
+						"put",
+						"puts()"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"mem",
+						"memcpy()"
+					],
+					[
+						"M",
+						"MaxB"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"me",
+						"memcpy()"
+					],
+					[
+						"no",
+						"nowans"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"ret",
+						"return()"
+					],
+					[
+						"f",
+						"printf()"
+					],
+					[
+						"pr",
+						"pair"
+					],
+					[
+						"re",
+						"reverse"
+					],
+					[
+						"un",
+						"unordered_map"
+					],
+					[
+						"pu",
+						"pushup()"
+					],
+					[
+						"fs",
+						"first"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"m",
+						"min()"
+					],
+					[
+						"i",
+						"int"
+					],
+					[
+						"for",
+						"forward_list"
+					],
+					[
+						"push",
+						"push_back()"
+					],
+					[
+						"red",
+						"read"
+					],
+					[
+						"h",
+						"hitokoto"
+					],
+					[
+						"t",
+						"times()"
+					],
+					[
+						"a",
+						"ans"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"pus",
+						"pushdown"
+					],
+					[
+						"puh",
+						"pushdown"
+					],
+					[
+						"de",
+						"def"
+					],
+					[
+						"rea",
+						"read"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"co",
+						"code"
+					],
+					[
+						"READ",
+						"read"
+					],
+					[
+						"g",
+						"getline"
+					],
+					[
+						"p",
+						"pushdown"
+					],
+					[
+						"max",
+						"maxl"
+					],
+					[
+						"in",
+						"insert"
+					],
+					[
+						"mo",
+						"modify"
+					],
+					[
+						"be",
+						"beginend"
+					],
+					[
+						"bk",
+						"back"
+					],
+					[
+						"reda",
+						"read"
+					],
+					[
+						"Ad",
+						"Add"
+					],
+					[
+						"y",
+						"yt"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"cst",
+						"cstring"
+					],
+					[
+						"Sta",
+						"Stack"
+					],
+					[
+						"IN",
+						"InFlow"
+					],
+					[
+						"Max",
+						"MaxDeep"
+					],
+					[
+						"sw",
+						"switch"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"pw",
+						"pow"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"mi",
+						"modify"
+					],
+					[
+						"mod",
+						"modify"
+					],
+					[
+						"sp",
+						"spfa_pmf"
+					],
+					[
+						"ad",
+						"addq"
+					],
+					[
+						"bu",
+						"build_matrix"
+					],
+					[
+						"fon",
+						"hash_function"
+					],
+					[
+						"str",
+						"strcpy"
+					],
+					[
+						"tea",
+						"tearssp_bl"
+					],
+					[
+						"ST",
+						"STBuF"
+					],
+					[
+						"ds",
+						"dfsn"
+					],
+					[
+						"time",
+						"times"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"if",
+						"ifelse\tif(…) else"
+					],
+					[
+						"ma",
+						"makeroot"
+					],
+					[
+						"ge",
+						"getans"
+					],
+					[
+						"ro",
+						"rotate"
+					],
+					[
+						"us",
+						"used"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"ui",
+						"uni"
+					],
+					[
+						"tp",
+						"tp\ttemplate<typename ${1:_InputIter}>"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"rae",
+						"read\tread_unsigned"
+					],
+					[
+						"ll",
+						"lamfull\tLambda - Full spec"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++_self.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++_self.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/MarkdownPreview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/MarkdownPreview/Markdown.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"enb",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Restore Color Scheme"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rempve",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"C",
+						"Code Folding: Fold"
+					],
+					[
+						"colorhi",
+						"Color Highlight: Disable Color Highlighting"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"instl",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						":",
+						":$ - EOF"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"for auto",
+					"for autp",
+					"for i==1",
+					"for i=1",
+					"for i",
+					"for",
+					"install",
+					"in"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/Administrator/Downloads/blokovi.in",
+				"/C/Users/Administrator/Downloads/blokovi.out",
+				"/D/HQX/Race/2021_11/3552/2.cpp",
+				"/D/HQX/Race/2021_11/3552/3_ex.cpp",
+				"/D/HQX/Race/2021_11/3552/poplocavanje.in",
+				"/C/Users/Administrator/Downloads/poplocavanje.in",
+				"/C/Users/Administrator/Downloads/sequence1.in",
+				"/D/HQX/Race/2021_11/3552/3.cpp",
+				"/D/HQX/Other/variance.in",
+				"/D/HQX/Other/7401.cpp",
+				"/C/Users/Administrator/Downloads/poplocavanje.out.8d",
+				"/D/HQX/Other/variance.out",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.26104/sequence2.in",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.45512/sequence2.ans",
+				"/C/Users/Administrator/Downloads/sequence1.ans",
+				"/D/HQX/Other/sequence.out",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.44867/sequence2.in",
+				"/D/HQX/Other/sequence.in",
+				"/D/HQX/Other/3551.cpp",
+				"/?10.0.3.165/信息学/2021训练/2021.11.20NOIP2021正式赛/answers/GD-0815/chess/chess.cpp",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.11254/sequence2.ans",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.out",
+				"/D/HQX/Race/2021_11/3552/1.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.in",
+				"/D/HQX/Race/2021_11/2021.11.15/set/checker.cpp",
+				"/C/Users/Administrator/Downloads/01-02.in",
+				"/C/Users/Administrator/Downloads/01-02.ans",
+				"/D/HQX/Other/LOJ/2874.in",
+				"/D/HQX/Other/LOJ/2874.cpp",
+				"/C/Users/Administrator/Downloads/04-10.in",
+				"/D/HQX/Race/2021_11/2021.11.13/weight/weight.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree_ge.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/_tree.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.in",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/checker.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/Readme.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/SublimeTrans.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/SublimeTextTrans.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/Context.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/snapshot.png",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/_config.yml",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/source/css/arknights.sass",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/index.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/includes/recent-posts.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/tag.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/page.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/includes/layout.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/post.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/archive.pug",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.out",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.in",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.out",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree_worse.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.cpp",
+				"/C/Users/Administrator/Downloads/C3.in",
+				"/?10.0.3.165/信息学/2021训练/2021.11.18/1118下发/C/C.ans",
+				"/?10.0.3.165/信息学/2021训练/2021.11.18/1118下发/C/C.in",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.in",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.out",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B_bl.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.cpp",
+				"/C/Users/Administrator/Downloads/data1.ans",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.out",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.in",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.cpp",
+				"/C/Users/Administrator/Downloads/A1.in",
+				"/D/HQX/Race/2021_11/2021.11.10/dream.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.out",
+				"/C/Users/Administrator/Downloads/A3.out",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per_ge.cpp",
+				"/C/Users/Administrator/Downloads/A1 (1).out",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.cpp",
+				"/C/Users/Administrator/Downloads/A2.in",
+				"/C/Users/Administrator/Downloads/A2.out",
+				"/C/Users/Administrator/Downloads/A3.in",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.in",
+				"/C/Users/Administrator/Downloads/data5.in",
+				"/C/Users/Administrator/Downloads/data1.in",
+				"/C/Users/Administrator/Downloads/data2.ans",
+				"/C/Users/Administrator/Downloads/data2.in",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.in",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_bl.out",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_bl.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_ge.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.out",
+				"/C/Users/Administrator/Downloads/data7.ans",
+				"/C/Users/Administrator/Downloads/data7.in",
+				"/C/Users/Administrator/Downloads/ds2.in",
+				"/C/Users/Administrator/Downloads/ds3.ans",
+				"/C/Users/Administrator/Downloads/ds3.in",
+				"/C/Users/Administrator/Downloads/ds2.ans",
+				"/C/Users/Administrator/Downloads/data12.ans",
+				"/C/Users/Administrator/Downloads/data5.ans",
+				"/C/Users/Administrator/Downloads/data12.in",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/ds.cpp",
+				"/C/Users/Administrator/Downloads/game3.out",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.out",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.in",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.out",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.cpp",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.in",
+				"/D/HQX/Writes/ToUNVRSe/package.json",
+				"/D/HQX/Writes/ToUNVRSe/_config.yml",
+				"/D/HQX/Writes/ToUNVRSe/public/css/arknights.css",
+				"/D/HQX/Writes/ToUNVRSe/public/js/gitalk.js",
+				"/D/HQX/Writes/ToUNVRSe/public/js/arknights.js",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.cpp",
+				"/C/Users/Administrator/Downloads/game3.in",
+				"/C/Users/Administrator/Downloads/game1.out",
+				"/C/Users/Administrator/Downloads/game1.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.out",
+				"/C/Users/Administrator/Downloads/star9.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_ri.cpp",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_60.cpp",
+				"/C/Users/Administrator/Downloads/star10.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.cpp",
+				"/C/Users/Administrator/Downloads/star9.out",
+				"/C/Users/Administrator/Downloads/star10.out",
+				"/C/Users/Administrator/Downloads/star7.in",
+				"/C/Users/Administrator/Downloads/star7.out",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_40.out",
+				"/D/HQX/Race/2021_08/3464/1.cpp",
+				"/C/Users/Administrator/Downloads/star1.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_bl.cpp"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 127.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sum",
+					"r",
+					"272958352",
+					"142763588",
+					"1",
+					"a[i]",
+					"65536",
+					"uni",
+					"x",
+					"false",
+					"toc-number",
+					"list_number",
+					"int",
+					"front",
+					"del",
+					"front",
+					"vector",
+					"j",
+					"BS",
+					"lst",
+					"nxt",
+					"Bmi",
+					"11",
+					"1024",
+					"1030",
+					"13",
+					"16",
+					"14",
+					"15",
+					"10",
+					"cnt",
+					"iv6",
+					"in2",
+					"500000004",
+					"x2/x",
+					" ",
+					"add",
+					"reg",
+					"ll",
+					"0x7f7f7f7f",
+					"int",
+					"queue",
+					"add",
+					"p",
+					"printf",
+					"100000",
+					"    ",
+					"1000010",
+					"read",
+					"2048",
+					"cnt[in[i]]",
+					"cnt[in[i]][t[i]]",
+					"Block",
+					"int",
+					"tmp",
+					"block",
+					"algorithm",
+					"N",
+					"out",
+					"false",
+					"true",
+					",};",
+					" ",
+					"const",
+					" ",
+					"ans",
+					"[0]",
+					" ",
+					"const",
+					"222870580",
+					"div",
+					"this",
+					"a",
+					"a.",
+					"len",
+					"num",
+					"size",
+					"BuF",
+					"ll",
+					"__gcd",
+					"int",
+					"t.b[i][1]",
+					"t",
+					"algorithm",
+					"//",
+					"7",
+					"dfs",
+					"calc",
+					"\\n[0-9]*\\n",
+					"printf",
+					"t",
+					"';\n",
+					"\"%d \",",
+					"printf",
+					"-",
+					"g.b[i][1]",
+					")\n",
+					"t",
+					"0",
+					"col",
+					"a",
+					"sum1",
+					" ",
+					"b",
+					"3906097",
+					"2545801",
+					"exist",
+					"col",
+					"RBBRBRRBRBRRRRBBBRRRBRBRBRRBBBBRRBBRBBRBRRBRRBRBBRRRBRR",
+					"t",
+					"unordered_map",
+					"2",
+					"cstring",
+					"sum",
+					"int",
+					"1",
+					" ",
+					"Yes|No\\n",
+					"1",
+					"51",
+					"4588766",
+					"2264633",
+					"1414833",
+					"4972059",
+					"4253000",
+					"3464222",
+					"1762851",
+					"4843246"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"}};\n",
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 178.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"treap",
+						"template\\Data\\Data Structure\\fhq-treap_seg.cpp"
+					],
+					[
+						"spfa",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"pmf",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"io",
+						"template\\Other\\io.cpp"
+					],
+					[
+						"sort",
+						"template\\Basic\\Radix_Sort.cpp"
+					],
+					[
+						"fft",
+						"template\\Math\\Poly\\FFT2.cpp"
+					],
+					[
+						"ra",
+						"template\\Basic\\Radix_Sort.cpp"
+					],
+					[
+						"rho",
+						"template\\Math\\Number_theory\\Pollard-Rho.cpp"
+					],
+					[
+						"tho",
+						"writes\\reveal\\The Outside Edge.md"
+					],
+					[
+						"ste",
+						"template\\Graph\\Steiner_Tree\\Steiner_Tree.cpp"
+					],
+					[
+						"",
+						"race\\2021_4\\2021.4.2\\lalaland\\lalaland.cpp"
+					],
+					[
+						"lalaland",
+						"race\\2021_4\\2021.4.2\\lalaland\\lalaland.cpp"
+					],
+					[
+						"pmg",
+						"race\\2021_1\\GDKOI\\PJ\\D1\\GD-0248\\map\\map.cpp"
+					],
+					[
+						"poll",
+						"template\\Math\\Number_theory\\Pollard-Rho2.cpp"
+					],
+					[
+						"so",
+						"temp\\software.out"
+					],
+					[
+						"PMF",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"j",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF_Johnson.cpp"
+					],
+					[
+						"FFT",
+						"template\\Math\\Poly\\FFT2.cpp"
+					],
+					[
+						"ntt",
+						"template\\Math\\Poly\\NTT.cpp"
+					],
+					[
+						"op",
+						"other\\OJ\\gmoj\\P1552.pas"
+					],
+					[
+						"inter",
+						"race\\2021_4\\2021.4.1\\interwoven\\interwoven.cpp"
+					],
+					[
+						"spf",
+						"template\\Graph\\Shortest Path\\SPFA_PMF_fst.cpp"
+					],
+					[
+						"lct",
+						"race\\2021_1\\3286\\LCT.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\HQX\\Writes\\ToUNVRSe\\.sublime\\ToUNVRSe.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 102.0,
+				"last_filter": "A",
+				"selected_items":
+				[
+					[
+						"A",
+						"AC"
+					],
+					[
+						"lsh",
+						"lsh"
+					],
+					[
+						"ls",
+						"ls"
+					],
+					[
+						"sort",
+						"sort"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"big",
+						"big"
+					],
+					[
+						"write",
+						"write"
+					],
+					[
+						"CFS",
+						"CFS"
+					],
+					[
+						"CF",
+						"CFS"
+					],
+					[
+						"cfs",
+						"CFS"
+					],
+					[
+						"rmq",
+						"rmq"
+					],
+					[
+						"sf",
+						"spfa"
+					],
+					[
+						"spf",
+						"spfa"
+					],
+					[
+						"spfa",
+						"spfa"
+					],
+					[
+						"pmf",
+						"spfa_pmf"
+					],
+					[
+						"cdq",
+						"cdq"
+					],
+					[
+						"ssp",
+						"PMF_SSP"
+					],
+					[
+						"dini",
+						"dinic"
+					],
+					[
+						"din",
+						"dinic"
+					],
+					[
+						"ex",
+						"exgcd"
+					],
+					[
+						"dinic",
+						"dinic"
+					],
+					[
+						"Add",
+						"Add"
+					],
+					[
+						"bg",
+						"big"
+					],
+					[
+						"spilt",
+						"spilt"
+					],
+					[
+						"split",
+						"split"
+					],
+					[
+						"ACAM",
+						"ACAM"
+					],
+					[
+						"matr",
+						"matrix"
+					],
+					[
+						"inv",
+						"inv"
+					],
+					[
+						"",
+						"FST"
+					]
+				],
+				"width": 574.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			}
+		},
+		"new_window_width": 1924.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"read",
+						"read"
+					],
+					[
+						"B",
+						"Block"
+					],
+					[
+						"po",
+						"pop_front()"
+					],
+					[
+						"rad",
+						"read"
+					],
+					[
+						"put",
+						"puts()"
+					],
+					[
+						"def",
+						"define"
+					],
+					[
+						"mem",
+						"memcpy()"
+					],
+					[
+						"M",
+						"MaxB"
+					],
+					[
+						"s",
+						"size"
+					],
+					[
+						"me",
+						"memcpy()"
+					],
+					[
+						"no",
+						"nowans"
+					],
+					[
+						"b",
+						"block"
+					],
+					[
+						"se",
+						"second"
+					],
+					[
+						"ret",
+						"return()"
+					],
+					[
+						"f",
+						"printf()"
+					],
+					[
+						"pr",
+						"pair"
+					],
+					[
+						"re",
+						"reverse"
+					],
+					[
+						"un",
+						"unordered_map"
+					],
+					[
+						"pu",
+						"pushup()"
+					],
+					[
+						"fs",
+						"first"
+					],
+					[
+						"fo",
+						"for"
+					],
+					[
+						"m",
+						"min()"
+					],
+					[
+						"i",
+						"int"
+					],
+					[
+						"for",
+						"forward_list"
+					],
+					[
+						"push",
+						"push_back()"
+					],
+					[
+						"red",
+						"read"
+					],
+					[
+						"h",
+						"hitokoto"
+					],
+					[
+						"t",
+						"times()"
+					],
+					[
+						"a",
+						"ans"
+					],
+					[
+						"inc",
+						"include"
+					],
+					[
+						"pus",
+						"pushdown"
+					],
+					[
+						"puh",
+						"pushdown"
+					],
+					[
+						"de",
+						"def"
+					],
+					[
+						"rea",
+						"read"
+					],
+					[
+						"c",
+						"count"
+					],
+					[
+						"co",
+						"code"
+					],
+					[
+						"READ",
+						"read"
+					],
+					[
+						"g",
+						"getline"
+					],
+					[
+						"p",
+						"pushdown"
+					],
+					[
+						"max",
+						"maxl"
+					],
+					[
+						"in",
+						"insert"
+					],
+					[
+						"mo",
+						"modify"
+					],
+					[
+						"be",
+						"beginend"
+					],
+					[
+						"bk",
+						"back"
+					],
+					[
+						"reda",
+						"read"
+					],
+					[
+						"Ad",
+						"Add"
+					],
+					[
+						"y",
+						"yt"
+					],
+					[
+						"r",
+						"return"
+					],
+					[
+						"cst",
+						"cstring"
+					],
+					[
+						"Sta",
+						"Stack"
+					],
+					[
+						"IN",
+						"InFlow"
+					],
+					[
+						"Max",
+						"MaxDeep"
+					],
+					[
+						"sw",
+						"switch"
+					],
+					[
+						"spl",
+						"split"
+					],
+					[
+						"pw",
+						"pow"
+					],
+					[
+						"qu",
+						"query"
+					],
+					[
+						"mi",
+						"modify"
+					],
+					[
+						"mod",
+						"modify"
+					],
+					[
+						"sp",
+						"spfa_pmf"
+					],
+					[
+						"ad",
+						"addq"
+					],
+					[
+						"bu",
+						"build_matrix"
+					],
+					[
+						"fon",
+						"hash_function"
+					],
+					[
+						"str",
+						"strcpy"
+					],
+					[
+						"tea",
+						"tearssp_bl"
+					],
+					[
+						"ST",
+						"STBuF"
+					],
+					[
+						"ds",
+						"dfsn"
+					],
+					[
+						"time",
+						"times"
+					],
+					[
+						"cl",
+						"clear"
+					],
+					[
+						"if",
+						"ifelse\tif(…) else"
+					],
+					[
+						"ma",
+						"makeroot"
+					],
+					[
+						"ge",
+						"getans"
+					],
+					[
+						"ro",
+						"rotate"
+					],
+					[
+						"us",
+						"used"
+					],
+					[
+						"q",
+						"query"
+					],
+					[
+						"ui",
+						"uni"
+					],
+					[
+						"tp",
+						"tp\ttemplate<typename ${1:_InputIter}>"
+					],
+					[
+						"na",
+						"namespace"
+					],
+					[
+						"rae",
+						"read\tread_unsigned"
+					],
+					[
+						"ll",
+						"lamfull\tLambda - Full spec"
+					],
+					[
+						"ios",
+						"iostream\tstandard header"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/HQX/Race/2021_11/3552/1.cpp",
+					"settings":
+					{
+						"buffer_size": 877,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPoBAAAAAAAA+gEAAAAAAAApAAAACiAgICAgICAgZm9yKGludCBqPXg7ajtqPXgmKGotMSkpICsrdFtqXTs",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AQAAAAAAACMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							6,
+							2,
+							"right_delete",
+							null,
+							"AgAAAOoBAAAAAAAA6gEAAAAAAAABAAAAeOoBAAAAAAAA6gEAAAAAAAABAAAAPQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAQAAAAAAAOoBAAAAAAAAAAAAAAAAUkA"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "++fp"
+							},
+							"BAAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA6wEAAAAAAADsAQAAAAAAAAAAAADsAQAAAAAAAO0BAAAAAAAAAAAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADqAQAAAAAAAOoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAO0BAAAAAAAA7QEAAAAAAAABAAAAcA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADuAQAAAAAAAO4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "["
+							},
+							"AQAAAO0BAAAAAAAA7gEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADtAQAAAAAAAO0BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							14,
+							1,
+							"insert",
+							{
+								"characters": "]"
+							},
+							"AQAAAPsBAAAAAAAA/AEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AQAAAAAAAPsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "\nf"
+							},
+							"AwAAAAMCAAAAAAAABAIAAAAAAAAAAAAABAIAAAAAAAAIAgAAAAAAAAAAAAAIAgAAAAAAAAkCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAADAgAAAAAAAAMCAAAAAAAAAAAAAAAgbEA"
+						],
+						[
+							22,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAgCAAAAAAAACAIAAAAAAAABAAAAZg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAJAgAAAAAAAAkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							27,
+							1,
+							"insert",
+							{
+								"characters": "for"
+							},
+							"AwAAAAgCAAAAAAAACQIAAAAAAAAAAAAACQIAAAAAAAAKAgAAAAAAAAAAAAAKAgAAAAAAAAsCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIAgAAAAAAAAgCAAAAAAAA////////738"
+						],
+						[
+							28,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAAsCAAAAAAAADQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAALAgAAAAAAAAsCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAAAwCAAAAAAAADQIAAAAAAAAAAAAADQIAAAAAAAAOAgAAAAAAAAAAAAAOAgAAAAAAAA8CAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAMAgAAAAAAAAwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": " i"
+							},
+							"AgAAAA8CAAAAAAAAEAIAAAAAAAAAAAAAEAIAAAAAAAARAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAgAAAAAAAA8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": "="
+							},
+							"AQAAABECAAAAAAAAEgIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAARAgAAAAAAABECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							32,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAABICAAAAAAAAFAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAASAgAAAAAAABICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							35,
+							1,
+							"insert",
+							{
+								"characters": "r,"
+							},
+							"AgAAAFAAAAAAAAAAUQAAAAAAAAAAAAAAUQAAAAAAAABSAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "r="
+							},
+							"AgAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAAAwAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAQAAAAAAAC4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": "1<<"
+							},
+							"AwAAADABAAAAAAAAMQEAAAAAAAAAAAAAMQEAAAAAAAAyAQAAAAAAAAAAAAAyAQAAAAAAADMBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAwAQAAAAAAADABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": "("
+							},
+							"AQAAADMBAAAAAAAANAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAzAQAAAAAAADMBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							46,
+							1,
+							"insert",
+							{
+								"characters": ")-1"
+							},
+							"AwAAADwBAAAAAAAAPQEAAAAAAAAAAAAAPQEAAAAAAAA+AQAAAAAAAAAAAAA+AQAAAAAAAD8BAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA8AQAAAAAAADwBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							55,
+							2,
+							"right_delete",
+							null,
+							"AgAAAD0BAAAAAAAAPQEAAAAAAAABAAAALT0BAAAAAAAAPQEAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AQAAAAAAAD0BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							59,
+							6,
+							"left_delete",
+							null,
+							"BgAAAEMCAAAAAAAAQwIAAAAAAAABAAAAKUICAAAAAAAAQgIAAAAAAAABAAAAbUECAAAAAAAAQQIAAAAAAAABAAAAPEACAAAAAAAAQAIAAAAAAAABAAAAPD8CAAAAAAAAPwIAAAAAAAABAAAAMT4CAAAAAAAAPgIAAAAAAAABAAAAKA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAgAAAAAAAEQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							60,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAAD4CAAAAAAAAPwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA+AgAAAAAAAD4CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							64,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAABsCAAAAAAAAGwIAAAAAAAABAAAAKBsCAAAAAAAAGwIAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAgAAAAAAABwCAAAAAAAAAAAAAADgYEA"
+						],
+						[
+							65,
+							1,
+							"insert",
+							{
+								"characters": "r-1;"
+							},
+							"BAAAABsCAAAAAAAAHAIAAAAAAAAAAAAAHAIAAAAAAAAdAgAAAAAAAAAAAAAdAgAAAAAAAB4CAAAAAAAAAAAAAB4CAAAAAAAAHwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAgAAAAAAABsCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							67,
+							1,
+							"insert",
+							{
+								"characters": "i;--i"
+							},
+							"BQAAAB8CAAAAAAAAIAIAAAAAAAAAAAAAIAIAAAAAAAAhAgAAAAAAAAAAAAAhAgAAAAAAACICAAAAAAAAAAAAACICAAAAAAAAIwIAAAAAAAAAAAAAIwIAAAAAAAAkAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAfAgAAAAAAAB8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							70,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"BAAAACUCAAAAAAAAJgIAAAAAAAAAAAAAJgIAAAAAAAAqAgAAAAAAAAAAAAAmAgAAAAAAACYCAAAAAAAABAAAACAgICAmAgAAAAAAAC4CAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAgAAAAAAACUCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							72,
+							4,
+							"left_delete",
+							null,
+							"BAAAACoCAAAAAAAAKgIAAAAAAAAEAAAAICAgICYCAAAAAAAAJgIAAAAAAAAEAAAAICAgICUCAAAAAAAAJQIAAAAAAAABAAAACiQCAAAAAAAAJAIAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAuAgAAAAAAAC4CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							73,
+							1,
+							"insert",
+							{
+								"characters": ")"
+							},
+							"AQAAACQCAAAAAAAAJQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAkAgAAAAAAACQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							75,
+							1,
+							"insert",
+							{
+								"characters": "\nfor"
+							},
+							"BwAAACUCAAAAAAAAJgIAAAAAAAAAAAAAJgIAAAAAAAAqAgAAAAAAAAAAAAAmAgAAAAAAACYCAAAAAAAABAAAACAgICAmAgAAAAAAAC4CAAAAAAAAAAAAAC4CAAAAAAAALwIAAAAAAAAAAAAALwIAAAAAAAAwAgAAAAAAAAAAAAAwAgAAAAAAADECAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAgAAAAAAACUCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							76,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAADECAAAAAAAAMwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAxAgAAAAAAADECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							77,
+							1,
+							"insert",
+							{
+								"characters": "int"
+							},
+							"AwAAADICAAAAAAAAMwIAAAAAAAAAAAAAMwIAAAAAAAA0AgAAAAAAAAAAAAA0AgAAAAAAADUCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAyAgAAAAAAADICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							78,
+							1,
+							"insert",
+							{
+								"characters": " l="
+							},
+							"AwAAADUCAAAAAAAANgIAAAAAAAAAAAAANgIAAAAAAAA3AgAAAAAAAAAAAAA3AgAAAAAAADgCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AgAAAAAAADUCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							79,
+							2,
+							"left_delete",
+							null,
+							"AgAAADcCAAAAAAAANwIAAAAAAAABAAAAPTYCAAAAAAAANgIAAAAAAAABAAAAbA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AgAAAAAAADgCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							80,
+							1,
+							"insert",
+							{
+								"characters": "j="
+							},
+							"AgAAADYCAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAAA4AgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA2AgAAAAAAADYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							82,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAADgCAAAAAAAAOQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA4AgAAAAAAADgCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							84,
+							1,
+							"insert",
+							{
+								"characters": ";j;j"
+							},
+							"BAAAADkCAAAAAAAAOgIAAAAAAAAAAAAAOgIAAAAAAAA7AgAAAAAAAAAAAAA7AgAAAAAAADwCAAAAAAAAAAAAADwCAAAAAAAAPQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA5AgAAAAAAADkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							86,
+							1,
+							"insert",
+							{
+								"characters": "&="
+							},
+							"AgAAAD0CAAAAAAAAPgIAAAAAAAAAAAAAPgIAAAAAAAA/AgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA9AgAAAAAAAD0CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							87,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAD8CAAAAAAAAQQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AgAAAAAAAD8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							88,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAD8CAAAAAAAAPwIAAAAAAAABAAAAKD8CAAAAAAAAPwIAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAgAAAAAAAEACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							89,
+							1,
+							"insert",
+							{
+								"characters": "j01"
+							},
+							"AwAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAABBAgAAAAAAAEICAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA/AgAAAAAAAD8CAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							90,
+							2,
+							"left_delete",
+							null,
+							"AgAAAEECAAAAAAAAQQIAAAAAAAABAAAAMUACAAAAAAAAQAIAAAAAAAABAAAAMA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABCAgAAAAAAAEICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							91,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAEACAAAAAAAAQQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAgAAAAAAAEACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							92,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEACAAAAAAAAQAIAAAAAAAABAAAAMQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABBAgAAAAAAAEECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							93,
+							1,
+							"insert",
+							{
+								"characters": "-1"
+							},
+							"AgAAAEACAAAAAAAAQQIAAAAAAAAAAAAAQQIAAAAAAABCAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAgAAAAAAAEACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							96,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"BAAAAEMCAAAAAAAARAIAAAAAAAAAAAAARAIAAAAAAABMAgAAAAAAAAAAAABEAgAAAAAAAEQCAAAAAAAACAAAACAgICAgICAgRAIAAAAAAABQAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAgAAAAAAAEMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							98,
+							1,
+							"insert",
+							{
+								"characters": "f"
+							},
+							"AQAAAFACAAAAAAAAUQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAgAAAAAAAFACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							99,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAFECAAAAAAAAUwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAgAAAAAAAFECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							101,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAAFICAAAAAAAAUwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAgAAAAAAAFICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							102,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFICAAAAAAAAUgIAAAAAAAABAAAAaQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAgAAAAAAAFMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							103,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAAFICAAAAAAAAUwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAgAAAAAAAFICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							104,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFICAAAAAAAAUgIAAAAAAAABAAAAaQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABTAgAAAAAAAFMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							105,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAFECAAAAAAAAUQIAAAAAAAABAAAAW1ECAAAAAAAAUQIAAAAAAAABAAAAXQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAgAAAAAAAFICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							106,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAFECAAAAAAAAUwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABRAgAAAAAAAFECAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							107,
+							1,
+							"insert",
+							{
+								"characters": "i-j"
+							},
+							"AwAAAFICAAAAAAAAUwIAAAAAAAAAAAAAUwIAAAAAAABUAgAAAAAAAAAAAABUAgAAAAAAAFUCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABSAgAAAAAAAFICAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							110,
+							1,
+							"insert",
+							{
+								"characters": "+=f"
+							},
+							"AwAAAFYCAAAAAAAAVwIAAAAAAAAAAAAAVwIAAAAAAABYAgAAAAAAAAAAAABYAgAAAAAAAFkCAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAgAAAAAAAFYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							111,
+							1,
+							"insert_snippet",
+							{
+								"contents": "[$0]"
+							},
+							"AQAAAFkCAAAAAAAAWwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABZAgAAAAAAAFkCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							112,
+							1,
+							"insert",
+							{
+								"characters": "i"
+							},
+							"AQAAAFoCAAAAAAAAWwIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABaAgAAAAAAAFoCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							114,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAAFwCAAAAAAAAXQIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABcAgAAAAAAAFwCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							117,
+							4,
+							"left_delete",
+							null,
+							"BAAAAEwCAAAAAAAATAIAAAAAAAAEAAAAICAgIEgCAAAAAAAASAIAAAAAAAAEAAAAICAgIEQCAAAAAAAARAIAAAAAAAAEAAAAICAgIEMCAAAAAAAAQwIAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABQAgAAAAAAAFACAAAAAAAAAAAAAAAAW0A"
+						],
+						[
+							118,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEMCAAAAAAAARAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAgAAAAAAAEMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							119,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEMCAAAAAAAAQwIAAAAAAAABAAAAIA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAgAAAAAAAEQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							120,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAEMCAAAAAAAARAIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAgAAAAAAAEMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							122,
+							1,
+							"left_delete",
+							null,
+							"AQAAAEMCAAAAAAAAQwIAAAAAAAABAAAAIA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABEAgAAAAAAAEQCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							123,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"BAAAAEMCAAAAAAAARAIAAAAAAAAAAAAARAIAAAAAAABMAgAAAAAAAAAAAABEAgAAAAAAAEQCAAAAAAAACAAAACAgICAgICAgRAIAAAAAAABQAgAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABDAgAAAAAAAEMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							128,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMUCAAAAAAAAxQIAAAAAAAABAAAAdA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADGAgAAAAAAAMYCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							129,
+							1,
+							"insert",
+							{
+								"characters": "f"
+							},
+							"AQAAAMUCAAAAAAAAxgIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADFAgAAAAAAAMUCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							133,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAADAAAAAAAAAAMAAAAAAAABAAAAdA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAABAwAAAAAAAAEDAAAAAAAAAAAAAAAgbEA"
+						],
+						[
+							134,
+							1,
+							"insert",
+							{
+								"characters": "f"
+							},
+							"AQAAAAADAAAAAAAAAQMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							152,
+							1,
+							"insert",
+							{
+								"characters": "\nitn"
+							},
+							"BAAAAPYAAAAAAAAA9wAAAAAAAAAAAAAA9wAAAAAAAAD4AAAAAAAAAAAAAAD4AAAAAAAAAPkAAAAAAAAAAAAAAPkAAAAAAAAA+gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD2AAAAAAAAAPYAAAAAAAAAAAAAAAAAa0A"
+						],
+						[
+							153,
+							1,
+							"insert",
+							{
+								"characters": " get"
+							},
+							"BAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AAAAAAAAAPoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							154,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAP4AAAAAAAAAAAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD+AAAAAAAAAP4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							155,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+							},
+							"AgAAAP4AAAAAAAAA/gAAAAAAAAABAAAAKP4AAAAAAAAA/gAAAAAAAAABAAAAKQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/AAAAAAAAAP8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							156,
+							6,
+							"left_delete",
+							null,
+							"BgAAAP0AAAAAAAAA/QAAAAAAAAABAAAAdPwAAAAAAAAA/AAAAAAAAAABAAAAZfsAAAAAAAAA+wAAAAAAAAABAAAAZ/oAAAAAAAAA+gAAAAAAAAABAAAAIPkAAAAAAAAA+QAAAAAAAAABAAAAbvgAAAAAAAAA+AAAAAAAAAABAAAAdA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD+AAAAAAAAAP4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							157,
+							1,
+							"insert",
+							{
+								"characters": "nt"
+							},
+							"AgAAAPgAAAAAAAAA+QAAAAAAAAAAAAAA+QAAAAAAAAD6AAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD4AAAAAAAAAPgAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							158,
+							1,
+							"insert",
+							{
+								"characters": " get"
+							},
+							"BAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD6AAAAAAAAAPoAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							159,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAP4AAAAAAAAAAAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD+AAAAAAAAAP4AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							160,
+							1,
+							"insert",
+							{
+								"characters": "itn"
+							},
+							"AwAAAP8AAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAABAQAAAAAAAAAAAAABAQAAAAAAAAIBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD/AAAAAAAAAP8AAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							161,
+							1,
+							"insert",
+							{
+								"characters": " x"
+							},
+							"AgAAAAIBAAAAAAAAAwEAAAAAAAAAAAAAAwEAAAAAAAAEAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAQAAAAAAAAIBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							162,
+							4,
+							"left_delete",
+							null,
+							"BAAAAAMBAAAAAAAAAwEAAAAAAAABAAAAeAIBAAAAAAAAAgEAAAAAAAABAAAAIAEBAAAAAAAAAQEAAAAAAAABAAAAbgABAAAAAAAAAAEAAAAAAAABAAAAdA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAQAAAAAAAAQBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							163,
+							1,
+							"insert",
+							{
+								"characters": "nt"
+							},
+							"AgAAAAABAAAAAAAAAQEAAAAAAAAAAAAAAQEAAAAAAAACAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							164,
+							1,
+							"insert",
+							{
+								"characters": " x"
+							},
+							"AgAAAAIBAAAAAAAAAwEAAAAAAAAAAAAAAwEAAAAAAAAEAQAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAQAAAAAAAAIBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							166,
+							1,
+							"insert_snippet",
+							{
+								"contents": "{$0}"
+							},
+							"AQAAAAUBAAAAAAAABwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAFAQAAAAAAAAUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							168,
+							1,
+							"run_macro_file",
+							{
+								"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+							},
+							"AwAAAAYBAAAAAAAABwEAAAAAAAAAAAAABwEAAAAAAAAIAQAAAAAAAAAAAAAHAQAAAAAAAAsBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAGAQAAAAAAAAYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							173,
+							1,
+							"left_delete",
+							null,
+							"AQAAAPYAAAAAAAAA9gAAAAAAAAAXAAAACmludCBnZXQoaW50IHgpewogICAgCn0",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAANAQAAAAAAAPYAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							180,
+							1,
+							"left_delete",
+							null,
+							"AQAAAFYAAAAAAAAAVgAAAAAAAAABAAAAdA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABXAAAAAAAAAFcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							181,
+							1,
+							"insert",
+							{
+								"characters": "f"
+							},
+							"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWAAAAAAAAAFYAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							185,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABlAwAAI2luY2x1ZGU8Y3N0ZGlvPgpjb25zdCBpbnQgTj0xMDAwMDEwLE09MTw8MjEsRlNJWkU9MTw8MjYsbW89MTAwMDAwMDAwNzsKaW50IG4sbSxyLGFucyxmW05dLHAyW05dOwpjaGFyIEJ1RltGU0laRV0sKkluRj1CdUY7CmludCByZWFkKCl7CiAgICBpbnQgeD0wOwogICAgZm9yKDs0Nz4qSW5GfHwqSW5GPjU4OysrSW5GKTsKICAgIGZvcig7NDc8KkluRiYmKkluRjw1ODt4PXgqMTArKCpJbkYrK140OCkpOwogICAgcmV0dXJuKHgpOwp9CmludCBtYWluKCl7CiAgICBmcmVhZChCdUYsMSxGU0laRSxzdGRpbik7CiAgICBuPXJlYWQoKTtyPTE8PChtPXJlYWQoKSk7CiAgICBmb3IoaW50IGk9cDJbMF09MTtpPD1uOysraSkKICAgICAgICBpZigocDJbaV09cDJbaS0xXTw8MSk+PW1vKSBwMltpXS09bW87CiAgICBmb3IoaW50IGk9MTtpPD1uOysraSl7CiAgICAgICAgaW50IHg9MDsKICAgICAgICBmb3IoaW50IGo9cmVhZCgpO2o7LS1qKSB4fD0xPDwocmVhZCgpLTEpOwogICAgICAgICsrZlt+eCYoKDE8PG0pLTEpXTsKICAgIH0KICAgIGZvcihpbnQgaT1yLTE7aTstLWkpCiAgICAgICAgZm9yKGludCBqPWk7ajtqJj1qLTEpCiAgICAgICAgICAgIGZbaS1qXSs9ZltpXTsKICAgIGFucz1wMltuXS0xOwogICAgZm9yKGludCBpPXItMTtpOy0taSkKICAgICAgICBpZihfX2J1aWx0aW5fcG9wY291bnQoaSkmMSl7CiAgICAgICAgICAgIGlmKChhbnMtPXAyW2ZbaV1dLTEpPDApIGFucys9bW87CiAgICAgICAgfWVsc2UKICAgICAgICAgICAgaWYoKGFucys9cDJbZltpXV0tMSk+PW1vKSBhbnMtPW1vOwogICAgcHJpbnRmKCIlZCIsYW5zKTsKICAgIGZjbG9zZShzdGRpbik7CiAgICBmY2xvc2Uoc3Rkb3V0KTsKICAgIHJldHVybigwKTsKfQoAAAAAAAAAAGoDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABXAAAAAAAAAFcAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							190,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAABqAwAAI2luY2x1ZGU8Y3N0ZGlvPgpjb25zdCBpbnQgTj0xMDAwMDEwLE09MTw8MjEsRlNJWkU9MTw8MjYsbW89MTAwMDAwMDAwNzsKaW50IG4sbSxyLGFucyxmW05dLHAyW05dOwpjaGFyIEJ1RltGU0laRV0sKkluRj1CdUY7CmludCByZWFkKCl7CiAgICBpbnQgeD0wOwogICAgZm9yKDs0Nz4qSW5GfHwqSW5GPjU4OysrSW5GKTsKICAgIGZvcig7NDc8KkluRiYmKkluRjw1ODt4PXgqMTArKCpJbkYrK140OCkpOwogICAgcmV0dXJuKHgpOwp9CmludCBtYWluKCl7CiAgICBmcmVhZChCdUYsMSxGU0laRSxzdGRpbik7CiAgICBuPXJlYWQoKTtyPTE8PChtPXJlYWQoKSk7CiAgICBmb3IoaW50IGk9cDJbMF09MTtpPD1uOysraSkKICAgICAgICBpZigocDJbaV09cDJbaS0xXTw8MSk+PW1vKSBwMltpXS09bW87CiAgICBmb3IoaW50IGk9MTtpPD1uOysraSl7CiAgICAgICAgaW50IHg9MDsKICAgICAgICBmb3IoaW50IGo9cmVhZCgpO2o7LS1qKSB4fD0xPDwocmVhZCgpLTEpOwogICAgICAgICsrZlt+eCYoKDE8PG0pLTEpXTsKICAgIH0KICAgIGZvcihpbnQgaT1yLTE7aTstLWkpCiAgICAgICAgZm9yKGludCBqPWk7ajtqJj1qLTEpCiAgICAgICAgICAgIGZbaS0oaiYtaildKz1mW2ldOwogICAgYW5zPXAyW25dLTE7CiAgICBmb3IoaW50IGk9ci0xO2k7LS1pKQogICAgICAgIGlmKF9fYnVpbHRpbl9wb3Bjb3VudChpKSYxKXsKICAgICAgICAgICAgaWYoKGFucy09cDJbZltpXV0tMSk8MCkgYW5zKz1tbzsKICAgICAgICB9ZWxzZQogICAgICAgICAgICBpZigoYW5zKz1wMltmW2ldXS0xKT49bW8pIGFucy09bW87CiAgICBwcmludGYoIiVkIixhbnMpOwogICAgZmNsb3NlKHN0ZGluKTsKICAgIGZjbG9zZShzdGRvdXQpOwogICAgcmV0dXJuKDApOwp9CgAAAAAAAAAAdAMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							193,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAB0AwAAI2luY2x1ZGU8Y3N0ZGlvPgpjb25zdCBpbnQgTj0xMDAwMDEwLE09MTw8MjEsRlNJWkU9MTw8MjYsbW89MTAwMDAwMDAwNzsKaW50IG4sbSxyLGFucyxmW05dLHAyW05dOwpjaGFyIEJ1RltGU0laRV0sKkluRj1CdUY7CmludCByZWFkKCl7CiAgICBpbnQgeD0wOwogICAgZm9yKDs0Nz4qSW5GfHwqSW5GPjU4OysrSW5GKTsKICAgIGZvcig7NDc8KkluRiYmKkluRjw1ODt4PXgqMTArKCpJbkYrK140OCkpOwogICAgcmV0dXJuKHgpOwp9CmludCBtYWluKCl7CiAgICBmcmVhZChCdUYsMSxGU0laRSxzdGRpbik7CiAgICBuPXJlYWQoKTtyPTE8PChtPXJlYWQoKSk7CiAgICBmb3IoaW50IGk9cDJbMF09MTtpPD1uOysraSkKICAgICAgICBpZigocDJbaV09cDJbaS0xXTw8MSk+PW1vKSBwMltpXS09bW87CiAgICBmb3IoaW50IGk9MTtpPD1uOysraSl7CiAgICAgICAgaW50IHg9MDsKICAgICAgICBmb3IoaW50IGo9cmVhZCgpO2o7LS1qKSB4fD0xPDwocmVhZCgpLTEpOwogICAgICAgICsrZlt+eCYoKDE8PG0pLTEpXTsKICAgIH0KICAgIGZvcihpbnQgaT0wO2k8bTstLWkpCiAgICAgICAgZm9yKGludCBqPXI7ajstLWopCiAgICAgICAgICAgIGlmKGomKDE8PGkpKSBmW2otKDE8PGkpXSs9ZltqXTsKICAgIGFucz1wMltuXS0xOwogICAgZm9yKGludCBpPXItMTtpOy0taSkKICAgICAgICBpZihfX2J1aWx0aW5fcG9wY291bnQoaSkmMSl7CiAgICAgICAgICAgIGlmKChhbnMtPXAyW2ZbaV1dLTEpPDApIGFucys9bW87CiAgICAgICAgfWVsc2UKICAgICAgICAgICAgaWYoKGFucys9cDJbZltpXV0tMSk+PW1vKSBhbnMtPW1vOwogICAgcHJpbnRmKCIlZCIsYW5zKTsKICAgIGZjbG9zZShzdGRpbik7CiAgICBmY2xvc2Uoc3Rkb3V0KTsKICAgIHJldHVybigwKTsKfQoAAAAAAAAAAHQDAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADjAgAAAAAAAOMCAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							198,
+							1,
+							"insert",
+							{
+								"characters": "\nfreopen"
+							},
+							"CQAAAAIBAAAAAAAAAwEAAAAAAAAAAAAAAwEAAAAAAAAHAQAAAAAAAAAAAAAHAQAAAAAAAAgBAAAAAAAAAAAAAAgBAAAAAAAACQEAAAAAAAAAAAAACQEAAAAAAAAKAQAAAAAAAAAAAAAKAQAAAAAAAAsBAAAAAAAAAAAAAAsBAAAAAAAADAEAAAAAAAAAAAAADAEAAAAAAAANAQAAAAAAAAAAAAANAQAAAAAAAA4BAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAACAQAAAAAAAAIBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							199,
+							1,
+							"insert_snippet",
+							{
+								"contents": "($0)"
+							},
+							"AQAAAA4BAAAAAAAAEAEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAOAQAAAAAAAA4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							200,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAAA8BAAAAAAAAEQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAPAQAAAAAAAA8BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							201,
+							1,
+							"paste",
+							null,
+							"AQAAABABAAAAAAAAGQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							203,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAABoBAAAAAAAAGwEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAQAAAAAAABoBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							204,
+							1,
+							"insert_snippet",
+							{
+								"contents": "\"$0\""
+							},
+							"AQAAABsBAAAAAAAAHQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAbAQAAAAAAABsBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							205,
+							1,
+							"insert",
+							{
+								"characters": "r"
+							},
+							"AQAAABwBAAAAAAAAHQEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAcAQAAAAAAABwBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							207,
+							1,
+							"insert",
+							{
+								"characters": ".,s"
+							},
+							"AwAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							208,
+							3,
+							"left_delete",
+							null,
+							"AwAAACABAAAAAAAAIAEAAAAAAAABAAAAcx8BAAAAAAAAHwEAAAAAAAABAAAALB4BAAAAAAAAHgEAAAAAAAABAAAALg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAhAQAAAAAAACEBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							209,
+							1,
+							"insert",
+							{
+								"characters": ",stdin"
+							},
+							"BgAAAB4BAAAAAAAAHwEAAAAAAAAAAAAAHwEAAAAAAAAgAQAAAAAAAAAAAAAgAQAAAAAAACEBAAAAAAAAAAAAACEBAAAAAAAAIgEAAAAAAAAAAAAAIgEAAAAAAAAjAQAAAAAAAAAAAAAjAQAAAAAAACQBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAeAQAAAAAAAB4BAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							211,
+							1,
+							"insert",
+							{
+								"characters": ";"
+							},
+							"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAlAQAAAAAAACUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							213,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAACYAwAAI2luY2x1ZGU8Y3N0ZGlvPgpjb25zdCBpbnQgTj0xMDAwMDEwLE09MTw8MjEsRlNJWkU9MTw8MjYsbW89MTAwMDAwMDAwNzsKaW50IG4sbSxyLGFucyxmW05dLHAyW05dOwpjaGFyIEJ1RltGU0laRV0sKkluRj1CdUY7CmludCByZWFkKCl7CiAgICBpbnQgeD0wOwogICAgZm9yKDs0Nz4qSW5GfHwqSW5GPjU4OysrSW5GKTsKICAgIGZvcig7NDc8KkluRiYmKkluRjw1ODt4PXgqMTArKCpJbkYrK140OCkpOwogICAgcmV0dXJuKHgpOwp9CmludCBtYWluKCl7CiAgICBmcmVvcGVuKCJrb3NhcmUuaW4iLCJyIixzdGRpbik7CiAgICBmcmVhZChCdUYsMSxGU0laRSxzdGRpbik7CiAgICBuPXJlYWQoKTtyPTE8PChtPXJlYWQoKSk7CiAgICBmb3IoaW50IGk9cDJbMF09MTtpPD1uOysraSkKICAgICAgICBpZigocDJbaV09cDJbaS0xXTw8MSk+PW1vKSBwMltpXS09bW87CiAgICBmb3IoaW50IGk9MTtpPD1uOysraSl7CiAgICAgICAgaW50IHg9MDsKICAgICAgICBmb3IoaW50IGo9cmVhZCgpO2o7LS1qKSB4fD0xPDwocmVhZCgpLTEpOwogICAgICAgICsrZlt+eCYoKDE8PG0pLTEpXTsKICAgIH0KICAgIGZvcihpbnQgaT0wO2k8bTsrK2kpCiAgICAgICAgZm9yKGludCBqPXI7ajstLWopCiAgICAgICAgICAgIGlmKGomKDE8PGkpKSBmW2otKDE8PGkpXSs9ZltqXTsKICAgIGFucz1wMltuXS0xOwogICAgZm9yKGludCBpPXItMTtpOy0taSkKICAgICAgICBpZihfX2J1aWx0aW5fcG9wY291bnQoaSkmMSl7CiAgICAgICAgICAgIGlmKChhbnMtPXAyW2ZbaV1dLTEpPDApIGFucys9bW87CiAgICAgICAgfWVsc2UKICAgICAgICAgICAgaWYoKGFucys9cDJbZltpXV0tMSk+PW1vKSBhbnMtPW1vOwogICAgcHJpbnRmKCIlZCIsYW5zKTsKICAgIGZjbG9zZShzdGRpbik7CiAgICBmY2xvc2Uoc3Rkb3V0KTsKICAgIHJldHVybigwKTsKfQoAAAAAAAAAAJ0DAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							214,
+							1,
+							"toggle_comment",
+							{
+								"block": true
+							},
+							"BAAAACYBAAAAAAAAJwEAAAAAAAAAAAAAJwEAAAAAAAApAQAAAAAAAAAAAAAmAQAAAAAAACYBAAAAAAAAAQAAAHgmAQAAAAAAACgBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							216,
+							2,
+							"left_delete",
+							null,
+							"AgAAACcBAAAAAAAAJwEAAAAAAAABAAAAKiYBAAAAAAAAJgEAAAAAAAABAAAALw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAoAQAAAAAAACgBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							217,
+							2,
+							"right_delete",
+							null,
+							"AgAAACYBAAAAAAAAJgEAAAAAAAABAAAAKiYBAAAAAAAAJgEAAAAAAAABAAAALw",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							218,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAcBAAAAAAAACgEAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAACYBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							220,
+							1,
+							"toggle_comment",
+							{
+								"block": false
+							},
+							"AQAAAAcBAAAAAAAABwEAAAAAAAADAAAALy8g",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAQAAAAAAACkBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							238,
+							1,
+							"revert",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAACdAwAAI2luY2x1ZGU8Y3N0ZGlvPgpjb25zdCBpbnQgTj0xMDAwMDEwLE09MTw8MjEsRlNJWkU9MTw8MjYsbW89MTAwMDAwMDAwNzsKaW50IG4sbSxyLGFucyxmW05dLHAyW05dOwpjaGFyIEJ1RltGU0laRV0sKkluRj1CdUY7CmludCByZWFkKCl7CiAgICBpbnQgeD0wOwogICAgZm9yKDs0Nz4qSW5GfHwqSW5GPjU4OysrSW5GKTsKICAgIGZvcig7NDc8KkluRiYmKkluRjw1ODt4PXgqMTArKCpJbkYrK140OCkpOwogICAgcmV0dXJuKHgpOwp9CmludCBtYWluKCl7CiAgICBmcmVvcGVuKCJrb3NhcmUuaW4iLCJyIixzdGRpbik7CiAgICBmcmVhZChCdUYsMSxGU0laRSxzdGRpbik7CiAgICBuPXJlYWQoKTtyPTE8PChtPXJlYWQoKSk7CiAgICBmb3IoaW50IGk9cDJbMF09MTtpPD1uOysraSkKICAgICAgICBpZigocDJbaV09cDJbaS0xXTw8MSk+PW1vKSBwMltpXS09bW87CiAgICBmb3IoaW50IGk9MTtpPD1uOysraSl7CiAgICAgICAgaW50IHg9MDsKICAgICAgICBmb3IoaW50IGo9cmVhZCgpO2o7LS1qKSB4fD0xPDwocmVhZCgpLTEpOwogICAgICAgICsrZlt+eCYoKDE8PG0pLTEpXTsKICAgIH0KICAgIGZvcihpbnQgaT0wO2k8bTsrK2kpCiAgICAgICAgZm9yKGludCBqPTE8PGk7ajxyOysraikKICAgICAgICAgICAgaWYoaiYoMTw8aSkpIGZbai0oMTw8aSldKz1mW2pdOwogICAgYW5zPXAyW25dLTE7CiAgICBmb3IoaW50IGk9ci0xO2k7LS1pKQogICAgICAgIGlmKF9fYnVpbHRpbl9wb3Bjb3VudChpKSYxKXsKICAgICAgICAgICAgaWYoKGFucy09cDJbZltpXV0tMSk8MCkgYW5zKz1tbzsKICAgICAgICB9ZWxzZQogICAgICAgICAgICBpZigoYW5zKz1wMltmW2ldXS0xKT49bW8pIGFucy09bW87CiAgICBwcmludGYoIiVkIixhbnMpOwogICAgZmNsb3NlKHN0ZGluKTsKICAgIGZjbG9zZShzdGRvdXQpOwogICAgcmV0dXJuKDApOwp9CgAAAAAAAAAAnQMAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADRAgAAAAAAANECAAAAAAAAAAAAAAAgY0A"
+						],
+						[
+							247,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAIBAAAAAAAAAgEAAAAAAAAkAAAACiAgICBmcmVvcGVuKCJrb3NhcmUuaW4iLCJyIixzdGRpbik7",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAmAQAAAAAAAAIBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							287,
+							1,
+							"insert",
+							{
+								"characters": "=="
+							},
+							"AgAAAAgDAAAAAAAACQMAAAAAAAAAAAAACQMAAAAAAAAKAwAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAIAwAAAAAAAAgDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							288,
+							6,
+							"left_delete",
+							null,
+							"BgAAAAkDAAAAAAAACQMAAAAAAAABAAAAPQgDAAAAAAAACAMAAAAAAAABAAAAPQQDAAAAAAAABAMAAAAAAAAEAAAAICAgIAADAAAAAAAAAAMAAAAAAAAEAAAAICAgIPwCAAAAAAAA/AIAAAAAAAAEAAAAICAgIPsCAAAAAAAA+wIAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKAwAAAAAAAAoDAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							294,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAPsCAAAAAAAA/AIAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD7AgAAAAAAAPsCAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/C/Users/Administrator/Downloads/kosare.out",
+					"settings":
+					{
+						"buffer_size": 10,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/C/Users/Administrator/Downloads/kosare.in.10",
+					"settings":
+					{
+						"buffer_size": 28087567,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "4 5\n2 2 3\n2 1 2\n4 1 2 3 5\n4 1 2 4 5\n",
+					"redo_stack":
+					[
+						[
+							51,
+							1,
+							"cut",
+							null,
+							"AQAAAAAAAAAAAAAAJAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						]
+					],
+					"settings":
+					{
+						"buffer_size": 36,
+						"line_ending": "Windows",
+						"name": "4 5"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"paste",
+							null,
+							"AQAAAAAAAAAAAAAAKAAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							8,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAMAAAAAAAAAAwAAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAkAAAAAAAAACQAAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAKAAAAAAAAAAoAAAAAAAAAAAAAAAAAO0A"
+						],
+						[
+							14,
+							1,
+							"left_delete",
+							null,
+							"AQAAAA8AAAAAAAAADwAAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAQAAAAAAAAABAAAAAAAAAAAAAAAACARkA"
+						],
+						[
+							16,
+							1,
+							"left_delete",
+							null,
+							"AQAAABkAAAAAAAAAGQAAAAAAAAABAAAACg",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAaAAAAAAAAABoAAAAAAAAAAAAAAACARkA"
+						]
+					]
+				}
+			],
+			"build_system": "Packages/User/C++_self.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							""
+						],
+						[
+							"Packages/C++11/C++11.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++_self.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/User/C++_self.sublime-build",
+						""
+					]
+				],
+				[
+					[
+						[
+							"Packages/MarkdownPreview/Markdown.sublime-build",
+							""
+						],
+						[
+							"Packages/User/C++_self.sublime-build",
+							""
+						]
+					],
+					[
+						"Packages/MarkdownPreview/Markdown.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"c",
+						"Set Syntax: C++"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"c+",
+						"Set Syntax: C++"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"enb",
+						"Package Control: Enable Package"
+					],
+					[
+						"dis",
+						"Package Control: Disable Package"
+					],
+					[
+						"ui",
+						"UI: Select Theme"
+					],
+					[
+						"color",
+						"Color Highlight: Restore Color Scheme"
+					],
+					[
+						"c++",
+						"Set Syntax: C++"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"rempve",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"en",
+						"Package Control: Enable Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"remp",
+						"Package Control: Remove Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"rem",
+						"Package Control: Remove Package"
+					],
+					[
+						"i",
+						"Package Control: Install Package"
+					],
+					[
+						"json",
+						"Set Syntax: JSON"
+					],
+					[
+						"C++",
+						"Set Syntax: C++"
+					],
+					[
+						"C",
+						"Code Folding: Fold"
+					],
+					[
+						"colorhi",
+						"Color Highlight: Disable Color Highlighting"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"instl",
+						"Package Control: Install Local Dependency"
+					],
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"plain",
+						"Set Syntax: Plain Text"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Snippet: ",
+						"Snippet: Lorem ipsum"
+					],
+					[
+						"disa",
+						"Package Control: Disable Package"
+					],
+					[
+						":w",
+						":w - Save"
+					],
+					[
+						":0",
+						":0 - BOF"
+					],
+					[
+						":",
+						":$ - EOF"
+					],
+					[
+						"INST",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 153.0,
+				"history":
+				[
+					"for auto",
+					"for autp",
+					"for i==1",
+					"for i=1",
+					"for i",
+					"for",
+					"install",
+					"in"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/HQX",
+				"/D/HQX/Race",
+				"/D/HQX/Race/2021_11",
+				"/D/HQX/Race/2021_11/3552"
+			],
+			"file_history":
+			[
+				"/C/Users/Administrator/Downloads/blokovi.in",
+				"/C/Users/Administrator/Downloads/blokovi.out",
+				"/D/HQX/Race/2021_11/3552/2.cpp",
+				"/D/HQX/Race/2021_11/3552/3_ex.cpp",
+				"/D/HQX/Race/2021_11/3552/poplocavanje.in",
+				"/C/Users/Administrator/Downloads/poplocavanje.in",
+				"/C/Users/Administrator/Downloads/sequence1.in",
+				"/D/HQX/Race/2021_11/3552/3.cpp",
+				"/D/HQX/Other/variance.in",
+				"/D/HQX/Other/7401.cpp",
+				"/C/Users/Administrator/Downloads/poplocavanje.out.8d",
+				"/D/HQX/Other/variance.out",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.26104/sequence2.in",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.45512/sequence2.ans",
+				"/C/Users/Administrator/Downloads/sequence1.ans",
+				"/D/HQX/Other/sequence.out",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.44867/sequence2.in",
+				"/D/HQX/Other/sequence.in",
+				"/D/HQX/Other/3551.cpp",
+				"/?10.0.3.165/信息学/2021训练/2021.11.20NOIP2021正式赛/answers/GD-0815/chess/chess.cpp",
+				"/C/Users/Administrator/AppData/Local/Temp/Rar$DIa10424.11254/sequence2.ans",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.out",
+				"/D/HQX/Race/2021_11/3552/1.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.in",
+				"/D/HQX/Race/2021_11/2021.11.15/set/checker.cpp",
+				"/C/Users/Administrator/Downloads/01-02.in",
+				"/C/Users/Administrator/Downloads/01-02.ans",
+				"/D/HQX/Other/LOJ/2874.in",
+				"/D/HQX/Other/LOJ/2874.cpp",
+				"/C/Users/Administrator/Downloads/04-10.in",
+				"/D/HQX/Race/2021_11/2021.11.13/weight/weight.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree_ge.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/_tree.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.in",
+				"/D/HQX/Race/2021_11/2021.11.18/chair/chair.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/checker.cpp",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/Readme.md",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/SublimeTrans.py",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/SublimeTextTrans.sublime-settings",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/Context.sublime-menu",
+				"/C/Users/Administrator/AppData/Roaming/Sublime Text/Packages/Transparency/snapshot.png",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/_config.yml",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/source/css/arknights.sass",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/index.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/includes/recent-posts.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/tag.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/page.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/includes/layout.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/post.pug",
+				"/D/HQX/Writes/ToUNVRSe/themes/arknights/layout/archive.pug",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.out",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.in",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree.out",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/tree_worse.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/C/C.cpp",
+				"/C/Users/Administrator/Downloads/C3.in",
+				"/?10.0.3.165/信息学/2021训练/2021.11.18/1118下发/C/C.ans",
+				"/?10.0.3.165/信息学/2021训练/2021.11.18/1118下发/C/C.in",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.in",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.out",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B_bl.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/B/B.cpp",
+				"/C/Users/Administrator/Downloads/data1.ans",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.out",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.in",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.cpp",
+				"/C/Users/Administrator/Downloads/A1.in",
+				"/D/HQX/Race/2021_11/2021.11.10/dream.cpp",
+				"/D/HQX/Race/2021_11/2021.11.18/A/A.out",
+				"/C/Users/Administrator/Downloads/A3.out",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per_ge.cpp",
+				"/C/Users/Administrator/Downloads/A1 (1).out",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.cpp",
+				"/C/Users/Administrator/Downloads/A2.in",
+				"/C/Users/Administrator/Downloads/A2.out",
+				"/C/Users/Administrator/Downloads/A3.in",
+				"/D/HQX/Race/2021_11/2021.11.17/per/per.in",
+				"/C/Users/Administrator/Downloads/data5.in",
+				"/C/Users/Administrator/Downloads/data1.in",
+				"/C/Users/Administrator/Downloads/data2.ans",
+				"/C/Users/Administrator/Downloads/data2.in",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.in",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_bl.out",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_bl.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds_ge.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.cpp",
+				"/D/HQX/Race/2021_11/2021.11.17/ds/ds.out",
+				"/C/Users/Administrator/Downloads/data7.ans",
+				"/C/Users/Administrator/Downloads/data7.in",
+				"/C/Users/Administrator/Downloads/ds2.in",
+				"/C/Users/Administrator/Downloads/ds3.ans",
+				"/C/Users/Administrator/Downloads/ds3.in",
+				"/C/Users/Administrator/Downloads/ds2.ans",
+				"/C/Users/Administrator/Downloads/data12.ans",
+				"/C/Users/Administrator/Downloads/data5.ans",
+				"/C/Users/Administrator/Downloads/data12.in",
+				"/D/HQX/Race/2021_11/2021.11.17/tree/ds.cpp",
+				"/C/Users/Administrator/Downloads/game3.out",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.out",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.in",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.out",
+				"/D/HQX/Race/2021_11/2021.11.17/graph/graph.cpp",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.in",
+				"/D/HQX/Writes/ToUNVRSe/package.json",
+				"/D/HQX/Writes/ToUNVRSe/_config.yml",
+				"/D/HQX/Writes/ToUNVRSe/public/css/arknights.css",
+				"/D/HQX/Writes/ToUNVRSe/public/js/gitalk.js",
+				"/D/HQX/Writes/ToUNVRSe/public/js/arknights.js",
+				"/D/HQX/Race/2021_11/2021.11.16/game/game.cpp",
+				"/C/Users/Administrator/Downloads/game3.in",
+				"/C/Users/Administrator/Downloads/game1.out",
+				"/C/Users/Administrator/Downloads/game1.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.out",
+				"/C/Users/Administrator/Downloads/star9.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_ri.cpp",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_60.cpp",
+				"/C/Users/Administrator/Downloads/star10.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star.cpp",
+				"/C/Users/Administrator/Downloads/star9.out",
+				"/C/Users/Administrator/Downloads/star10.out",
+				"/C/Users/Administrator/Downloads/star7.in",
+				"/C/Users/Administrator/Downloads/star7.out",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_40.out",
+				"/D/HQX/Race/2021_08/3464/1.cpp",
+				"/C/Users/Administrator/Downloads/star1.in",
+				"/D/HQX/Race/2021_11/2021.11.16/star/star_bl.cpp"
+			],
+			"find":
+			{
+				"height": 27.0
+			},
+			"find_in_files":
+			{
+				"height": 127.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"sum",
+					"r",
+					"272958352",
+					"142763588",
+					"1",
+					"a[i]",
+					"65536",
+					"uni",
+					"x",
+					"false",
+					"toc-number",
+					"list_number",
+					"int",
+					"front",
+					"del",
+					"front",
+					"vector",
+					"j",
+					"BS",
+					"lst",
+					"nxt",
+					"Bmi",
+					"11",
+					"1024",
+					"1030",
+					"13",
+					"16",
+					"14",
+					"15",
+					"10",
+					"cnt",
+					"iv6",
+					"in2",
+					"500000004",
+					"x2/x",
+					" ",
+					"add",
+					"reg",
+					"ll",
+					"0x7f7f7f7f",
+					"int",
+					"queue",
+					"add",
+					"p",
+					"printf",
+					"100000",
+					"    ",
+					"1000010",
+					"read",
+					"2048",
+					"cnt[in[i]]",
+					"cnt[in[i]][t[i]]",
+					"Block",
+					"int",
+					"tmp",
+					"block",
+					"algorithm",
+					"N",
+					"out",
+					"false",
+					"true",
+					",};",
+					" ",
+					"const",
+					" ",
+					"ans",
+					"[0]",
+					" ",
+					"const",
+					"222870580",
+					"div",
+					"this",
+					"a",
+					"a.",
+					"len",
+					"num",
+					"size",
+					"BuF",
+					"ll",
+					"__gcd",
+					"int",
+					"t.b[i][1]",
+					"t",
+					"algorithm",
+					"//",
+					"7",
+					"dfs",
+					"calc",
+					"\\n[0-9]*\\n",
+					"printf",
+					"t",
+					"';\n",
+					"\"%d \",",
+					"printf",
+					"-",
+					"g.b[i][1]",
+					")\n",
+					"t",
+					"0",
+					"col",
+					"a",
+					"sum1",
+					" ",
+					"b",
+					"3906097",
+					"2545801",
+					"exist",
+					"col",
+					"RBBRBRRBRBRRRRBBBRRRBRBRBRRBBBBRRBBRBBRBRRBRRBRBBRRRBRR",
+					"t",
+					"unordered_map",
+					"2",
+					"cstring",
+					"sum",
+					"int",
+					"1",
+					" ",
+					"Yes|No\\n",
+					"1",
+					"51",
+					"4588766",
+					"2264633",
+					"1414833",
+					"4972059",
+					"4253000",
+					"3464222",
+					"1762851",
+					"4843246"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+					"}};\n",
+					""
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/HQX/Race/2021_11/3552/1.cpp",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 877,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										423,
+										423
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/C/Users/Administrator/Downloads/kosare.out",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/Administrator/Downloads/kosare.in.10",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28087567,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										28087567
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 36,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										36
+									]
+								],
+								"settings":
+								{
+									"auto_name": "4 5",
+									"default_dir": "D:\\HQX\\Other",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 27.0
+			},
+			"input":
+			{
+				"height": 45.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.70695970696,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					0.5,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 178.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.markdown":
+			{
+				"height": 128.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,728,8,1,1932,ff31926af343e94a9c059973d3ef1dd8",
+			"project": "hqx.sublime-project",
+			"replace":
+			{
+				"height": 50.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"treap",
+						"template\\Data\\Data Structure\\fhq-treap_seg.cpp"
+					],
+					[
+						"spfa",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"pmf",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"io",
+						"template\\Other\\io.cpp"
+					],
+					[
+						"sort",
+						"template\\Basic\\Radix_Sort.cpp"
+					],
+					[
+						"fft",
+						"template\\Math\\Poly\\FFT2.cpp"
+					],
+					[
+						"ra",
+						"template\\Basic\\Radix_Sort.cpp"
+					],
+					[
+						"rho",
+						"template\\Math\\Number_theory\\Pollard-Rho.cpp"
+					],
+					[
+						"tho",
+						"writes\\reveal\\The Outside Edge.md"
+					],
+					[
+						"ste",
+						"template\\Graph\\Steiner_Tree\\Steiner_Tree.cpp"
+					],
+					[
+						"",
+						"race\\2021_4\\2021.4.2\\lalaland\\lalaland.cpp"
+					],
+					[
+						"lalaland",
+						"race\\2021_4\\2021.4.2\\lalaland\\lalaland.cpp"
+					],
+					[
+						"pmg",
+						"race\\2021_1\\GDKOI\\PJ\\D1\\GD-0248\\map\\map.cpp"
+					],
+					[
+						"poll",
+						"template\\Math\\Number_theory\\Pollard-Rho2.cpp"
+					],
+					[
+						"so",
+						"temp\\software.out"
+					],
+					[
+						"PMF",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF.cpp"
+					],
+					[
+						"j",
+						"template\\Graph\\Shortest_Path\\SPFA_PMF_Johnson.cpp"
+					],
+					[
+						"FFT",
+						"template\\Math\\Poly\\FFT2.cpp"
+					],
+					[
+						"ntt",
+						"template\\Math\\Poly\\NTT.cpp"
+					],
+					[
+						"op",
+						"other\\OJ\\gmoj\\P1552.pas"
+					],
+					[
+						"inter",
+						"race\\2021_4\\2021.4.1\\interwoven\\interwoven.cpp"
+					],
+					[
+						"spf",
+						"template\\Graph\\Shortest Path\\SPFA_PMF_fst.cpp"
+					],
+					[
+						"lct",
+						"race\\2021_1\\3286\\LCT.cpp"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"",
+						"D:\\HQX\\Writes\\ToUNVRSe\\.sublime\\ToUNVRSe.sublime-project"
+					]
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 102.0,
+				"last_filter": "A",
+				"selected_items":
+				[
+					[
+						"A",
+						"AC"
+					],
+					[
+						"lsh",
+						"lsh"
+					],
+					[
+						"ls",
+						"ls"
+					],
+					[
+						"sort",
+						"sort"
+					],
+					[
+						"w",
+						"write"
+					],
+					[
+						"big",
+						"big"
+					],
+					[
+						"write",
+						"write"
+					],
+					[
+						"CFS",
+						"CFS"
+					],
+					[
+						"CF",
+						"CFS"
+					],
+					[
+						"cfs",
+						"CFS"
+					],
+					[
+						"rmq",
+						"rmq"
+					],
+					[
+						"sf",
+						"spfa"
+					],
+					[
+						"spf",
+						"spfa"
+					],
+					[
+						"spfa",
+						"spfa"
+					],
+					[
+						"pmf",
+						"spfa_pmf"
+					],
+					[
+						"cdq",
+						"cdq"
+					],
+					[
+						"ssp",
+						"PMF_SSP"
+					],
+					[
+						"dini",
+						"dinic"
+					],
+					[
+						"din",
+						"dinic"
+					],
+					[
+						"ex",
+						"exgcd"
+					],
+					[
+						"dinic",
+						"dinic"
+					],
+					[
+						"Add",
+						"Add"
+					],
+					[
+						"bg",
+						"big"
+					],
+					[
+						"spilt",
+						"spilt"
+					],
+					[
+						"split",
+						"split"
+					],
+					[
+						"ACAM",
+						"ACAM"
+					],
+					[
+						"matr",
+						"matrix"
+					],
+					[
+						"inv",
+						"inv"
+					],
+					[
+						"",
+						"FST"
+					]
+				],
+				"width": 574.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"last_automatic_layout":
+				[
+					[
+						0,
+						0,
+						1,
+						2
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					],
+					[
+						1,
+						1,
+						2,
+						2
+					]
+				]
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 282.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+				"max_columns": 2
+			},
+			"window_id": 33,
+			"workspace_name": "/D/HQX/.sublime/hqx.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/D/HQX/.sublime/hqx.sublime-workspace",
+			"/D/HQX/Writes/ToUNVRSe/.sublime/ToUNVRSe.sublime-workspace"
+		]
+	}
+}

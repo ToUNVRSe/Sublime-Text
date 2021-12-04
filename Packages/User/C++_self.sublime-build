@@ -1,0 +1,5 @@
+{
+    "cmd":["cmd","/c","g++","-std=c++14","-Wall","${file}","-lm","-o","${file_path}/${file_base_name}.exe", "&&","start","cmd","/c","${file_path}/${file_base_name}& pause"],
+    "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
+    "working_dir":"${file_path}"
+}

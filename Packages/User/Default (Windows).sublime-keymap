@@ -1,0 +1,28 @@
+[
+	{ "keys": ["ctrl+shift+v"], "command": "paste_and_indent" },
+	{ "keys": ["ctrl+alt+v"], "command": "paste_from_history" },
+	{ "keys": ["f9"], "command": "build" },
+	{ "keys": ["shift+f9"], "command": "sort_lines", "args": {"case_sensitive": false} },
+    { "keys": ["ctrl+shift+a"], "command": "clang_format",
+        "context":  
+        [
+            {"key": "selector", "operator": "equal", "operand": "source.c++"}
+        ],
+    },
+
+    { "keys": ["ctrl+shift+a"], "command": "clang_format",
+        "context":  
+        [
+            {"key": "selector", "operator": "equal", "operand": "source.c"}
+        ],
+    },
+    
+    { "keys": ["ctrl+shift+a"], "command": "clang_format",
+        "context":
+        [
+            {"key": "selector", "operator": "equal", "operand": "source.js"}
+        ]
+    },
+
+    { "keys": ["ctrl+shift+alt+s"],"command": "prompt_select_workspace"},
+]

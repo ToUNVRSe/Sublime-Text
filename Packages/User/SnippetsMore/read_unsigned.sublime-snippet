@@ -1,0 +1,12 @@
+<snippet>
+	<description>read_unsigned</description>
+	<content><![CDATA[template<typename T>void read(T &x){
+	for(;47>*InF||*InF>58;++InF);
+	for(x=0;47<*InF&&*InF<58;x=x*10+(*InF++^48));${1:
+    if(*InF++=='.'){
+        for(long double t=0.1;47<*InF&&*InF<58;x+=t*(*InF++-48),t/=10);
+    \}}
+}$0]]></content>
+	<tabTrigger>read</tabTrigger>
+	<scope>source.c++</scope>
+</snippet>
